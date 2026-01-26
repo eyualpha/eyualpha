@@ -133,21 +133,13 @@ Here are some of my key repositories and projects:
 ### ⭐ Top Repositories
 | Project | Tech | Description |
 |--------|------|-------------|
-| **Linkora-Server** | JavaScript | Backend for Linkora app |
+| **Linkora-Server/client** | JavaScript&Typescript | Backend for Linkora app |
 | **choir-app-api** | JavaScript | API for choir management app |
 | **Performance-evaluation-system** | Python | Python system for performance tracking |
 | **kda-store-management** | TypeScript | Store management system |
 | **ASTU-STUDENT-APP** | JavaScript | Mobile app for ASTU students |
-| **Commercial-dashboard** | TypeScript | Dashboard interface project |
-
 ---
 
-## 🏆 Achievements
-- 🏅 GitHub Achievement: **Pull Shark** — recognized for merged PRs
-- 🤝 **Pair Extraordinaire** — recognized for collaboration
-- 💼 GitHub Developer Program Member  
-
----
 
 ## 🤝 Let’s Connect
 I'm always open to collaborate, learn together, and build cool stuff 🚀
@@ -159,4 +151,3 @@ I'm always open to collaborate, learn together, and build cool stuff 🚀
 ---
 
 Thanks for stopping by! 👨‍💻✨  
-*Eyu Ashenafi (eyualpha)!*
