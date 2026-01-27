@@ -37,7 +37,7 @@ Here are some of the languages and technologies I work with often:
     <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,mui,html,css,vite,figma,vscode,github,git,postman,netlify,vercel" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 >⚡ Stats </h2>
 <br>
 <div align=center>
   <a href="https://github.com/eyualpha">
