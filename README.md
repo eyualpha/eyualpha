@@ -41,8 +41,7 @@ Here are some of the languages and technologies I work with often:
 <br>
 <div align=center>
   <a href="https://github.com/eyualpha">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyualpha&layout=compact&theme=radical" />
-  </a>
+<img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eyualpha&layout=compact&theme=radical&hide=html,css" />  </a>
       <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=eyualpha&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 </div>
